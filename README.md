@@ -14,3 +14,4 @@ wiki_steps: the oracle schema from wikiHow
 'split': train/val/test
 category: the category of this goal in wikiHow
 ```
+* goal2steps_clustered_full.p the schemata of 21,299 tasks induced by IER
